@@ -78,35 +78,19 @@ h5{ margin-top: 30px;
     padding: 10px;
 
 }
-
-#secao21{color:rgb(4, 4, 16);
+.destaque{color:rgb(4, 4, 16);
     text-align: justify;
     padding: 10px;
 
 }
 
-#secao22{color:rgb(4, 4, 16);
-    text-align: justify;
-    padding: 10px;
-
-}
-
-#textosecao3 {color:rgb(4, 4, 16);
-    text-align: justify;
-    padding: 10px;
-}
-
-#textosecao31{color:rgb(4, 4, 16);
-    text-align: justify;
-    padding: 10px;
-}
-
-#fotoomnia {width: 500px;
+.destaquefoto{width: 500px;
     height: 300px;
     padding: 10px;
     padding-left: 270px;
     margin-top: 30px;
     margin-left: 30px;
+
 }
 
 #legendafotoomnia {color:rgb(146, 146, 154);
@@ -116,16 +100,7 @@ h5{ margin-top: 30px;
     margin-top: 5px;
     margin-left: 300px;
 }
-
-#fotowaris {width: 500px;
-    height: 300px;
-    padding: 10px;
-    padding-left: 270px;
-    margin-top: 30px;
-    margin-left: 30px;
-    
-}
-
+ 
 #legendafotowaris {color:rgb(146, 146, 154);
     text-align: justify;
     font-size: small;
