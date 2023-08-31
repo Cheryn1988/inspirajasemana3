@@ -15,14 +15,6 @@ h1 {
    color:rgb(49, 9, 169); font-size: 2rem; vertical-align: justify;
   
 }
-#objetivo5 { 
-    width: 500px;
-    height: 300px;
-    padding: 10px;
-    padding-left: 270px;
-    margin-top: 30px;
-    margin-left: 30px;
-  }
 
   #apresentacaoobjetivo5{
     background-color: #d7c1c1;
@@ -38,10 +30,6 @@ h2 {
 color:rgb(4, 4, 16);
 text-align: justify;
 padding: 40px;
-}
-
-#video{
-    padding-left: 270px;
 }
 
 #apresentacaometa{
@@ -61,8 +49,6 @@ h3, h4 {  margin-top: 30px;
     text-align: justify;
     padding: 10px;
 }
-
-
 
 h5{ margin-top: 30px;
     margin-bottom: 30px;
@@ -84,28 +70,19 @@ h5{ margin-top: 30px;
 
 }
 
-.destaquefoto{width: 500px;
+.destaquefoto{width: 70%;
     height: 300px;
     padding: 10px;
-    padding-left: 270px;
+    padding-left: 10px;
     margin-top: 30px;
     margin-left: 30px;
 
 }
-
-#legendafotoomnia {color:rgb(146, 146, 154);
+.legendafotos{
+    color:rgb(146, 146, 154);
     text-align: justify;
     font-size: small;
     padding: 0%;
     margin-top: 5px;
-    margin-left: 300px;
-}
- 
-#legendafotowaris {color:rgb(146, 146, 154);
-    text-align: justify;
-    font-size: small;
-    padding: 0%;
-    margin-top: 5px;
-    margin-left: 500px;
-    
+    margin-left: 10px; 
 }
