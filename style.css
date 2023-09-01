@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 body {
-max-width: 1200px;
-font-family: 'Montserrat', sans-serif;
-margin: 20px; }
+    max-width: 1200px;
+    font-family: 'Montserrat', sans-serif;
+       margin: 20px; 
+       background-color: rgb(161, 172, 227);
+    }
 
 header {
 height: 60px;
@@ -11,6 +13,7 @@ width: 100%;
 position: fixed;
 z-index: 10;
 background: black;
+background-color: rgb(61, 67, 155)
 }
 
 header #logo {
@@ -72,18 +75,12 @@ margin: 20% 20% 0 20%;
 padding-bottom: 20px;
 }
 
-
-
-
-
-header{
-background-color: rgb(61, 67, 155);
-color: white;
-height: 90px;
-width: 100%;
-position: float;
-z-index: 10;
-margin-top: 0px 0px 0px 0px;
+figure h2.titulo {
+padding-top: 20px;
+font-size: 30px;
+margin: 0 30% 0 30%;
+border-top: 3px solid rgb(9, 9, 9);
+padding-bottom: 30px;
 }
 
 #menu{
@@ -108,6 +105,19 @@ h2 {
     margin-top: 30px;
     margin-bottom: 30px;
     color:rgb(58, 11, 198); font-size: 2rem; vertical-align: text-top;
+}
+
+.cta {
+border: 1px solid white;
+border-radius: 8px;
+color: rgb(22, 16, 16);
+padding: 10 20 10 20;
+text-decoration: initial;
+font-size: 20px;
+}
+.cta:hover {
+background-color: #01acea;
+border: 0px;
 }
 
 #lista1{
@@ -138,7 +148,7 @@ padding: 40px;
 
 }
 
-h4, h5, h6 {  margin-top: 30px;
+h3, h4, h5, h6 {  margin-top: 30px;
     margin-bottom: 30px;
     color:rgb(17, 17, 213); font-size: 1rem; vertical-align: text-top;
 }
