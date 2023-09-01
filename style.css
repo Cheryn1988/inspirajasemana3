@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 body {
-    max-width: 1200px;
-    font-family: 'Montserrat', sans-serif;
-       margin: 20px; 
-       background-color: rgb(161, 172, 227);
-    }
+max-width: 1200px;
+font-family: 'Montserrat', sans-serif;
+margin: 20px; 
+background-color: rgb(161, 172, 227);
+}
 
 header {
 height: 60px;
@@ -20,7 +20,7 @@ header #logo {
 position: absolute;
 top: 10px;
 float: left;
-height: 60px;
+height: 40px;
 width: 170px;
 margin-left: 5%;
 }
